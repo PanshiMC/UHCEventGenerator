@@ -1,0 +1,3 @@
+name: UHCEventGenerator
+version: ${project.version}
+main: net.panshimc.uhc.uhceventgenerator.UHCEventGenerator
