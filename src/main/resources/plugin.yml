@@ -1,3 +1,4 @@
 name: UHCEventGenerator
 version: ${project.version}
-main: net.panshimc.uhc.uhceventgenerator.UHCEventGenerator
+main: net.panshimc.uhc.event.UHCEventGenerator
+load: STARTUP
